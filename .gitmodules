@@ -1,0 +1,16 @@
+[submodule "garnett-eval-workflow"]
+	path = garnett-eval-workflow
+	url = https://github.com/ebi-gene-expression-group/garnett-eval-workflow
+	branch = develop
+[submodule "scmap-eval-workflow"]
+	path = scmap-eval-workflow
+	url = https://github.com/ebi-gene-expression-group/scmap-eval-workflow
+	branch = develop
+[submodule "scpred-eval-workflow"]
+	path = scpred-eval-workflow
+	url = https://github.com/ebi-gene-expression-group/scpred-eval-workflow
+	branch = develop
+[submodule "label-analysis-eval-workflow"]
+	path = label-analysis-eval-workflow
+	url = https://github.com/ebi-gene-expression-group/label-analysis-eval-workflow
+	branch = develop
